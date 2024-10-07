@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="example">
+    <output-path>$PROJECT_DIR$/out/artifacts/example</output-path>
+    <root id="archive" name="example.jar">
+      <element id="library" level="project" name="Maven: org.projectlombok:lombok:1.18.34" />
+    </root>
+  </artifact>
+</component>
